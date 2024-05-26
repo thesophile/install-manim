@@ -1,5 +1,17 @@
 # install-manim
 
+## Create and activate virtual env
+
+create
+```
+python3 -m venv myenv
+```
+activate (For Debian Linux)
+```
+source myenv/bin/activate
+```
+
+
 Install ffmpeg
 ```
 sudo apt install ffmpeg
