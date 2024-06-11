@@ -3,29 +3,30 @@
 ## Create and activate virtual env
 
 ### create
+
 ```
 python3 -m venv myenv
 ```
+
 ### activate (For Debian Linux)
+
 ```
 source myenv/bin/activate
 ```
+
 ## Install dependencies
 
-### Install ffmpeg
 ```
-sudo apt install ffmpeg
-```
-### Other dependencies
-
-```
-sudo apt install python3-dev libcairo2-dev libgirepository1.0-dev libpango1.0-dev
+sudo apt update
+sudo apt install build-essential python3-dev libcairo2-dev libpango1.0-dev ffmpeg
 ```
 
 ## Install manim
+
 ```
 pip3 install manim
 ```
+
 ## Optional dependencies - Latex
 
 ```
