@@ -8,7 +8,7 @@
 python3 -m venv myenv
 ```
 
-### activate (For Debian Linux)
+### activate 
 
 ```
 source myenv/bin/activate
