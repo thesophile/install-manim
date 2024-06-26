@@ -1,4 +1,4 @@
-# install-manim
+# install manim in Linux
 
 ## Create and activate virtual env
 
